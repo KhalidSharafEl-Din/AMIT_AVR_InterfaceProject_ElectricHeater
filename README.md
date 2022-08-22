@@ -1,2 +1,2 @@
-# AMIT-AVR-Interface-Project-Electric-Heater
+# AMIT_AVR_InterfaceProject_ElectricHeater
 Final Project In AMIT Learning Embedded Systems Diploma. 
