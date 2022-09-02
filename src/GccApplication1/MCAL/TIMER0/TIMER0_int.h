@@ -9,7 +9,7 @@
 #ifndef __TIMER0_INTERFACE_H__
 #define __TIMER0_INTERFACE_H__
 
-#include "STD_TYPES.h"
+#include "../../Services/STD_TYPES.h"
 #define F_CPU 1000000UL
 
 void TIMER0_init();

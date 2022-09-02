@@ -4,12 +4,12 @@
 /*	Version: 0.1				         */
 /*	File   : EXTI_prog.c	             */
 /*****************************************/
-#include "STD_types.h"
-#include "BIT_MATH.h"
+#include "../../Services/STD_TYPES.h"
+#include "../../Services/BIT_MATH.h"
 #include "EXTI_int.h"
 #include "EXTI_private.h"
 #include "EXTI_config.h"
-#include "GIE_int.h"
+#include "../GIE/GIE_int.h"
 void (*EXTI_0_CallBack) (void) ;
 
 void EXTI0_voidInit(void)

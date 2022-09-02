@@ -6,8 +6,8 @@
 /*************************************************************/
 
 
-#include "STD_TYPES.h"
-#include "BIT_MATH.h"
+#include "../../Services/STD_TYPES.h"
+#include "../../Services/BIT_MATH.h"
 #include "TIMER0_private.h"
 #include "TIMER0_config.h"
 #include "TIMER0_int.h"
